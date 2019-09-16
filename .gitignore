@@ -1,2 +1,4 @@
 .pio
 .clang_complete
+.ccls-cache/
+.travis.yml
